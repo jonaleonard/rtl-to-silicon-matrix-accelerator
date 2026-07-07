@@ -1,0 +1,9 @@
+*.vcd
+*.vvp
+*.log
+synth/*.json
+openlane/runs/
+*.gds
+*.def
+.vscode/
+.DS_Store
