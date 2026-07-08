@@ -3,6 +3,7 @@
 *.log
 synth/*.json
 openlane/runs/
+librelane_demo/*/runs/
 *.gds
 *.def
 .vscode/
